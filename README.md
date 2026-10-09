@@ -6,4 +6,5 @@ Down below will be listed a "to-do" list for myself
 1. Set the website up
 2. Get simple messages to be written
 
-update : did not work
+update : don't have the time with all the application process
+
